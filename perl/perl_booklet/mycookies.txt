@@ -1,0 +1,3 @@
+#LWP-Cookies-1.0
+Set-Cookie3: B="evjn1k9ck6hv1&b=3&s=nq"; path="/"; domain=.yahoo.com; path_spec; expires="2018-06-16 02:52:17Z"; version=0
+Set-Cookie3: gvc=909vr2408040150230757; path="/"; domain=www.me.org; path_spec; expires="2022-04-26 02:00:15Z"; httponly; version=0
